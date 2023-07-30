@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huy</h1>
-<h3 align="center">A 18 year old boy from Vietnam 👨‍🦱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nthuy2004&label=Profile%20views&color=0e75b6&style=flat" alt="nthuy2004" /> </p>
-
-- ⚡ Fun fact **I'm Real Madrid's fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
